@@ -17,3 +17,5 @@ SE è presente
     avrò risultato positivo e stampo
 ALTRIMENTI 
     avrò risultato negativo e stampo
+
+Posso utilizzare una variabile che mi dia sia VERO che FALSO dopo il ciclo PER
