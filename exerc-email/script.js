@@ -13,7 +13,6 @@ for (let i = 0; i < listaMail.length; i++) {
         break;
     } else {
         console.log("Accesso Fallito");
-        break;
     }
 }
 
