@@ -149,3 +149,21 @@ console.log("--------------------------------");
 
 
 // ESERCIZIO N 9
+
+const parola = "elefante";
+
+let sommaVocali = 0
+
+for (let i = 0; i < parola.length; i++) {
+    if (parola[i] === "e" || parola[i] === "a" || parola[i] === "i" || parola[i] === "u" || parola[i] === "o") {
+        sommaVocali++
+    }
+}
+
+console.log(sommaVocali)
+console.log(`La soluzione dell'esercizio 9 è ${sommaVocali}`);
+console.log("--------------------------------");
+
+
+// ESERCIZIO N 10
+
